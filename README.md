@@ -133,5 +133,5 @@ This project provides a **practical, beginner-friendly dataset** to practice dat
 
 ## 🔹 Author
 
-**Jagia**  
-BS Mathematics Student | Data Science Enthusiast | Erasmus MATHS-DISC Applicant
+**Akaasha Asif**  
+BS Mathematics Student t
